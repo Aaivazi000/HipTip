@@ -21,8 +21,8 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] Made minor changes to the layout
-- [ ] Added a way for user to split the bill which splits the total and has a label with the split.
+- [X] Made minor changes to the layout
+- [X] Added a way for user to split the bill which splits the total and has a label with the split.
 
 ## Video Walkthrough 
 
