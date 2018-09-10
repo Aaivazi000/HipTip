@@ -9,3 +9,5 @@
 * Name: Andriana Aivazians
 * Organization: The City College of New York
 
+## Gif WalkThorugh ##
+link to gif: https://imgur.com/ag0KDGK
