@@ -1,13 +1,53 @@
-## Project Information ##
-* Project Name: Hip Tip
-* Project Description: This project is a Tip Calculator developed for iOS devices. The project was used as a preliminary work assingment for the CodePath iOS Development course held at The City College of New York in Fall 2018.
-* Programming Language Used: Swift
-* Submission Date: September 10, 2018
-* Last Update: September 10, 2018
+# Pre-work - *Hit Tip*
 
-## Creator Information ##
-* Name: Andriana Aivazians
-* Organization: The City College of New York
+**Hip Tip** is a tip calculator application for iOS.
 
-## Gif WalkThorugh ##
-link to gif: https://imgur.com/ag0KDGK
+Submitted by: **Andriana Aivazians**
+
+Time spent: **3** hours spent in total
+
+## User Stories
+
+The following **required** functionality is complete:
+
+* [X] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+
+The following **optional** features are implemented:
+* [ ] Settings page to change the default tip percentage.
+* [ ] UI animations
+* [X] Remembering the bill amount across app restarts (if <10mins)
+* [ ] Using locale-specific currency and currency thousands separators.
+* [X] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
+
+The following **additional** features are implemented:
+
+- [ ] Made minor changes to the layout
+- [ ] Added a way for user to split the bill which splits the total and has a label with the split.
+
+## Video Walkthrough 
+
+Here's a walkthrough of implemented user stories:
+
+<img src='https://i.imgur.com/ag0KDGK.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
+## Notes
+
+I encountered difficulty setting the default tip value on the settings page. I created a way for the user to set the default but was not able to transfer the information to the segmented control in the view controller..
+
+## License
+
+    Copyright [2018] [Andriana Aivazians]
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
