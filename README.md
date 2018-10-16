@@ -1,4 +1,4 @@
-# Pre-work - *Hit Tip*
+# Pre-work - *Hip Tip*
 
 **Hip Tip** is a tip calculator application for iOS.
 
